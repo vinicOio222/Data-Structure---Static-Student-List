@@ -156,12 +156,12 @@ int main(){
     a1.notas[0] = 6.0;
     a1.notas[1] = 5.0;
     a1.notas[2] = 9.0;
-    strcpy(a2.nome, "Kalil");
+    strcpy(a2.nome, "Gabryella");
     a2.matricula = 1612521;
     a2.notas[0] = 6.0;
     a2.notas[1] = 5.0;
     a2.notas[2] = 9.0;
-    strcpy(a3.nome, "Pedro");
+    strcpy(a3.nome, "Diogo");
     a3.matricula = 1612442;
     a3.notas[0] = 6.0;
     a3.notas[1] = 5.0;
